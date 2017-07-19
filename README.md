@@ -24,3 +24,5 @@ And generate the QR code from $ quasar dev --play"
 
 Quasar was being chosen, as it is under development framework, which will be able to handle all the tasks mentioned, once a version upgrade is being done.
 Last Beta version was released on 20 Jun 2017 
+
+As of now there is no tutorial or projects on Quasar, since it is under development. But it has a lot of scope, hence I dared to try my hand on the same.
